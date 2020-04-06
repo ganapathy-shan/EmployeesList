@@ -1,6 +1,7 @@
 # EmployeesList
 
 
-Create Two views
-One view to show the employees list which is downloaded using REST API.
-Another view to show employee details when an employee is selected. In detail view, download profile images and show it.
+Employee List App has two views
+
+MyImagesTableViewController - This view shows the employees list downloaded using REST API.
+EmployeeViewController - This view to show employee details when an employee is selected. It downloads profile images and show it in image view.
